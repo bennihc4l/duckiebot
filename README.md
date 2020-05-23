@@ -2,7 +2,7 @@
 ROS2 nodes for gym_duckietown bot controlling
 ===
 
-** 1. General Usage: **
+**1. General Usage:**
 ------------------
 
 Launch files provided in lane_controller package
@@ -13,7 +13,7 @@ Launch files provided in lane_controller package
 
 * controllers.launch.py launches active control via lane follow assist and statemachine
 
-** 2. Remote control: **
+**2. Remote control:**
 ------------------
 
 Package remote_control provides an executable, which controls the _wheels_ command directly via an QT window interface.
